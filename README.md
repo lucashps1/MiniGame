@@ -1,2 +1,2 @@
 # MiniGame
-Jogo de Adivinhação com Python3
+Aprendendo Python - Jogo de Adivinhação com Python3
